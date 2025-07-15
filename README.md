@@ -6,10 +6,12 @@ A powerful and intuitive desktop GUI application for calculating and visualizing
 
 A quick look at the app in both light and dark mode:
 
-**Light Mode**
+**Light Mode**\
+
 <img width="532" height="721" alt="v3 3 Light Mode Screenshot " src="https://github.com/user-attachments/assets/aed0c7e1-f080-4c19-8d20-785ffd705cd5" />
 
-**Dark Mode**
+**Dark Mode**\
+
 <img width="536" height="719" alt="v3 3 Dark Mode Screenshot " src="https://github.com/user-attachments/assets/4421b4f7-4392-4b59-a13a-f511cd6b7e3e" />
 
 ---
