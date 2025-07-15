@@ -2,6 +2,14 @@
 
 A powerful and intuitive desktop GUI application for calculating and visualizing a variety of statistical effect sizes. Built in Python using PyQt6, this tool guides users through loading datasets, selecting analysis types, and producing both numerical results and publication‑quality plots with ease.
 
+## 🖼 Screenshots
+
+A quick look at the app in both light and dark mode:
+
+**Light Mode**\
+
+
+**Dark Mode**\
 
 
 ---
@@ -90,14 +98,12 @@ EffectSizeCalculator/
 ## Roadmap
 
 - Add auto detect column types for easier usage.
-
 - Support Omega squared and nonparametric effect sizes
-
 - Provide installers for macOS (`.dmg`) and Linux (`.AppImage`)
 
 ---
 
 ## License
 
-This project is distributed under the MIT License © 2024 Hezi777. See [LICENSE](LICENSE) for details.
+This project is distributed under the MIT License © 2024 Hen Zrihen. See [LICENSE](LICENSE) for details.
 
